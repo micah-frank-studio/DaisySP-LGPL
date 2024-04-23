@@ -12,7 +12,7 @@ https://opensource.org/license/lgpl-2-1/
 
 #include <stdlib.h>
 #include "Utility/dsp.h"
-#include "PhysicalModeling/pluck.h"
+#include "pluck.h"
 #include "Utility/dcblock.h"
 
 namespace daisysp
